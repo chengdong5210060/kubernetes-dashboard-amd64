@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v2.0.0-rc5
+FROM kubernetesui/dashboard:v2.0.0-rc5
